@@ -56,6 +56,7 @@
     <Compile Include="Contracts\ViewModel\ISettingsViewModel.cs" />
     <Compile Include="Extensions\ListExtension.cs" />
     <Compile Include="Extensions\TaskExtension.cs" />
+    <Compile Include="Messages\CurrencyChangedMessage.cs" />
     <Compile Include="Models\App\MenuItem.cs" />
     <Compile Include="Models\App\SearchParameters.cs" />
     <Compile Include="Models\City.cs" />

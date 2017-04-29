@@ -7,7 +7,7 @@ using MyTrains.Core.Contracts.Services;
 using MyTrains.Core.Contracts.ViewModel;
 using MyTrains.Core.Extensions;
 using MyTrains.Core.Models;
-using MyTrains.Core.Model.App;
+using MyTrains.Core.Models.App;
 
 namespace MyTrains.Core.ViewModel
 {
