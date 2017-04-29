@@ -11,7 +11,7 @@ namespace MyTrains.Core.Models
         public City ToCity { get; set; }
         public DateTime JourneyDate { get; set; }
         public DateTime DepartureTime { get; set; }
-        public DateTime Arrival { get; set; }
+        public DateTime ArrivalTime { get; set; }
         public double Price { get; set; }
         public string Platform { get; set; }
     }
